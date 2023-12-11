@@ -1,5 +1,5 @@
 # Xyl-Account-Gen
-release at 10 stars (so ik if its worth posting) 
+release at 1000 stars
 
 + creates accounts
 + free email creator
